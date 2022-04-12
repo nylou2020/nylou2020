@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nylou2020
-- 👀 I’m interested in all automation
-- 🌱 I’m currently learning Ansible.
+- 👀 I’m interested in all automation.
+- 🌱 I’m currently learning Ansible and OpenShift.
 - 💞️ I’m looking to collaborate on Brocade SAN zoning BPs, zone tgt-initiator checking,...
 - 📫 How to reach me:  nylou97@gmail.com
 
